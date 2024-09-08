@@ -2,7 +2,7 @@
 
 ## Team Members:
 - [Sean Clewis]
-- This Repo Only Contains the serever side info which I have handled and I left my partners work off who focused on the front end for the sake of privacy
+- This Repo Only Contains the server side info which I have handled and I left my partners work off who focused on the front end for the sake of privacy
 
 ## Purpose:
 
